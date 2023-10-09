@@ -1,0 +1,10 @@
+*.pyc
+*.egg-info
+
+.DS_Store
+
+/env
+/venv
+
+/.env
+/error_internal_pickup_availability
